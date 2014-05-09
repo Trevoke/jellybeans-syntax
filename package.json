@@ -1,7 +1,7 @@
 {
   "name": "jellybeans-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A copy of nanotech's vim jellybeans color theme",
   "repository": "https://github.com/trevoke/jellybeans-syntax",
   "license": "MIT",
